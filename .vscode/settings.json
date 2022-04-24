@@ -5,30 +5,20 @@
       "server": "localhost",
       "port": 5432,
       "driver": "PostgreSQL",
-      "name": "talently",
-      "database": "talently",
-      "username": "postgres",
-      "password": "123456"
-    },
-    {
-      "previewLimit": 50,
-      "server": "localhost",
-      "port": 5432,
-      "driver": "PostgreSQL",
-      "name": "online_shop",
-      "database": "online_shop",
-      "username": "postgres",
-      "password": "123456"
-    },
-    {
-      "previewLimit": 50,
-      "server": "localhost",
-      "port": 5432,
-      "driver": "PostgreSQL",
       "name": "sales",
       "database": "sales",
       "username": "postgres",
-      "password": "123456"
+      "password": "pm1234"
+    },
+    {
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 5432,
+      "driver": "PostgreSQL",
+      "name": "relations",
+      "database": "relations",
+      "username": "postgres",
+      "password": "pm1234"
     }
   ]
 }
